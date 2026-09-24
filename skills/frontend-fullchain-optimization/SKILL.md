@@ -1,6 +1,6 @@
 ---
 name: frontend-fullchain-optimization
-description: Frontend full-chain performance optimization guide based on Web Vitals metrics. Provides metric thresholds, diagnostic methods, and optimization strategies for LCP, FCP, INP, CLS, TTFB, TBT. Use when optimizing frontend performance, analyzing Web Vitals, reducing page load time, fixing layout shifts, improving interaction responsiveness, or reviewing frontend code for performance issues.
+description: Guides frontend full-chain performance optimization based on Web Vitals metrics. Provides metric thresholds, diagnostic methods, and optimization strategies for LCP, FCP, INP, CLS, TTFB, TBT. Use when optimizing frontend performance, analyzing Web Vitals, reducing page load time, fixing layout shifts, improving interaction responsiveness, or reviewing frontend code for performance issues.
 ---
 
 # Frontend Full-Chain Performance Optimization Guide
