@@ -1,6 +1,6 @@
 ---
 name: mem-recall
-description: Search and recall past AI conversations across Claude Code, Codex, Grok, OpenCode, Pi and ZCode via the `trellis mem` CLI. Use whenever the user asks to remember, find, or look up anything discussed in previous AI sessions — across platforms, projects, or time. Triggers on phrases like "我之前跟 Claude/Codex 讨论过 X", "上次怎么处理 Y", "翻一下历史对话", "我们当时怎么决定 X 的", "为什么我们选了 X 而不是 Y", "find what I said about Z", "what did I discuss last week", "the rationale for choosing X", "find the brainstorm where we picked Z over alternatives". Use even when the user doesn't say "history" or "recall" — any reference to past AI-conversation content should trigger this skill. The tool reads sessions directly from each platform's local storage; nothing is uploaded.
+description: Searches and recalls past AI conversations across Claude Code, Codex, Grok, OpenCode, Pi and ZCode via the `trellis mem` CLI. Use whenever the user asks to remember, find, or look up anything discussed in previous AI sessions — across platforms, projects, or time. Triggers on phrases like "我之前跟 Claude/Codex 讨论过 X", "上次怎么处理 Y", "翻一下历史对话", "我们当时怎么决定 X 的", "为什么我们选了 X 而不是 Y", "find what I said about Z", "what did I discuss last week", "the rationale for choosing X", "find the brainstorm where we picked Z over alternatives". Use even when the user doesn't say "history" or "recall" — any reference to past AI-conversation content should trigger this skill. The tool reads sessions directly from each platform's local storage; nothing is uploaded.
 ---
 
 # Mem Recall
